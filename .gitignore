@@ -147,3 +147,10 @@ dmypy.json
 # Caches and Datasets
 cache/
 data/
+
+.hf_models
+.hf_models_sim
+.toolchains
+.venv-sim
+.sim
+rollouts/
